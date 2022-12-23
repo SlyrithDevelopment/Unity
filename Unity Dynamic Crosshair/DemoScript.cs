@@ -1,3 +1,5 @@
+using UnityEngine;
+
 public class DynamicCrosshair : MonoBehaviour
     {
         [Header("Set in inspector")]
